@@ -13,5 +13,7 @@ public class ExaminationDto {
 
   private UserDto teacher;
 
+  private boolean enabled;
+
   private Set<QuestionDto> questions;
 }

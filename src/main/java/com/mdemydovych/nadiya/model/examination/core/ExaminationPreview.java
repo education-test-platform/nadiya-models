@@ -11,4 +11,6 @@ public class ExaminationPreview {
   private String title;
 
   private UserDto teacher;
+
+  private boolean enabled;
 }

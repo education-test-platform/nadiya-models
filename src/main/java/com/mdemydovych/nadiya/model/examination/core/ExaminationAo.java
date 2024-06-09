@@ -12,5 +12,7 @@ public class ExaminationAo {
 
   private String teacherId;
 
+  private boolean enabled;
+
   private List<QuestionAo> questions;
 }
